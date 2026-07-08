@@ -39,34 +39,6 @@ YouTube-Video-Downloader/
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/youtube-video-downloader.git
-```
-
-### 2️⃣ Open the project folder
-
-```bash
-cd youtube-video-downloader
-```
-
-### 3️⃣ Install the required dependency
-
-```bash
-pip install yt-dlp
-```
-
-### 4️⃣ Run the application
-
-```bash
-python ytdownload.py
-```
-
----
-
 ## 📖 How to Use
 
 1. Launch the application.
